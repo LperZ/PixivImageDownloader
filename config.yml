@@ -1,0 +1,10 @@
+Account:
+ ID: ''
+ password: ''
+Myheader:
+ user-agent: ''
+ cookie: ''
+  referer: 'https://www.pixiv.net'
+Setting:
+ Allow_R-18: true
+ Save_Path: 'C:\PixivDownloader'
